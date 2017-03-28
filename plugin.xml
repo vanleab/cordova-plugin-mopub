@@ -21,8 +21,8 @@
     <clobbers target="window.MoPub" />
   </js-module>
 
-  <dependency id="cordova-plugin-extension"/>
-  <dependency id="cordova-plugin-cocoapod-support"/>
+  <!--<dependency id="cordova-plugin-extension"/>-->
+  <!--<dependency id="cordova-plugin-cocoapod-support"/>-->
 
   <!-- android -->
   <platform name="android">
