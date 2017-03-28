@@ -50,6 +50,7 @@
 
       <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version" />
 
+      <!--
       <framework src="src/android/plugin.gradle" custom="true" type="gradleReference"/>
       <framework src="com.mopub:mopub-sdk:+" />
       <framework src="com.mopub.volley:mopub-volley:+" />
@@ -57,6 +58,7 @@
       <framework src="com.google.android.gms:play-services-ads:+" />
       <framework src="com.android.support:support-v4:+" />
       <framework src="com.android.support:recyclerview-v7:+" />
+      -->
 
   </platform>
      
